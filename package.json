@@ -1,0 +1,19 @@
+{
+  "name": "graphql-playground-be",
+  "version": "1.0.0",
+  "description": "Playground of all graphql operations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsid96/graphql-playground-be.git"
+  },
+  "author": "Sidharth Patnaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsid96/graphql-playground-be/issues"
+  },
+  "homepage": "https://github.com/mrsid96/graphql-playground-be#readme"
+}
